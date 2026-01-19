@@ -106,14 +106,4 @@ Machine Learning & Data Analytics
 University of Jordan
 
 
----
 
-### ✅ After you paste it:
-1. Click **Commit changes**
-2. Refresh the repo page
-3. Your project now looks **100% professional**
-
-If you want, next I can:
-- Write a **short project explanation** for your CV
-- Or a **LinkedIn post** announcing the project
-- Or help you **dockerize** it for extra points 🚀
