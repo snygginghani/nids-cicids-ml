@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# OS
+.DS_Store
+
+# Large data (optional but recommended)
+data/*.parquet
+
+# Models (optional)
+models/*.joblib
